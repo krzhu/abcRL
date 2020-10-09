@@ -4,7 +4,7 @@ Reinforcement learning for logic synthesis.
 
 This is the source codes for our paper "Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network", published at 2nd ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Nov. 2020.
 
-The authors include [Keren Zhu](https://krzhu.github.io), Mingjie Liu, Hao Chen, Zheng Zhao and David Z. Pan.
+The authors include [Keren Zhu](https://krz.engineer), Mingjie Liu, Hao Chen, Zheng Zhao and David Z. Pan.
 
 --------
 # Prerequsites
